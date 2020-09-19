@@ -1,0 +1,246 @@
+@media screen and (max-width: 1200px){
+    .logo-area{
+        margin-left: 1.2rem;
+        
+    }
+  
+}
+@media screen and (max-width: 1024px) {
+html{
+    font-size: 57.5%;
+}
+.container{
+   width: 100%;
+   margin: 0 0rem;
+    padding: 0;
+    
+}
+.menu-area{
+        display: none;
+    }
+    .mobile-menu{
+    display: block;
+}
+.sticky{
+padding: .9rem 0;
+    }
+p{
+ width: 100%;
+ margin: 0 0;
+} 
+    .team .col:nth-child(1){
+        margin-bottom: -2rem;
+    }
+.hero-text-box{
+        
+    width: 70%;
+    margin-top: 2rem;
+   
+}
+    .person-img{
+    height: 22rem;
+    width: 22rem;
+    transition: .3s;
+    }
+    .person-img:hover{
+  transform: scale(1);
+    width: 23rem;
+    height: 23rem;
+    border-radius: 50%;
+  
+}
+    
+.span_1_of_4{
+        width: 49.2%;
+    }
+.flag{
+        margin-left: 0;
+    
+    }
+    .team .olivia{
+        margin-left: 0;
+    }
+    .team .little-dec{
+        width: 70%;
+    }
+  .contact .little-dec{
+      width: 70%;
+    }
+    .contact form{
+        width: 100%;
+    }
+    
+    h4{
+     width: 40rem;
+    }
+    
+.review-item{
+text-align: center;
+    }  
+
+.client-image{
+    float: none;
+    width: 100%;
+    height: 27rem;
+    
+}
+.client-image img{
+    width: 25rem;
+    height: 25rem;
+    border-radius: 50%;
+   
+    
+}
+.client-review{
+    text-align: center;
+    width: 100%;
+}
+    .client-review p{
+     width: 90%;
+    margin: auto;
+  
+}
+.review .col:nth-child(4) p{
+    width: 90%;
+   
+   
+}
+.review .col:nth-child(3),
+.review .col:nth-child(4){
+margin-top: 6rem;
+}
+.review .col:nth-child(1){
+         margin-bottom: -2.2rem;
+    }
+.skill .col:nth-child(3){
+        margin-left: 0;   
+    }
+ .btn-link{
+           margin-bottom: 2rem;
+            margin-top: 2rem;
+        }
+        .btn-link button{
+         
+            margin-top: 1rem;
+        }
+    
+@media screen and (max-width: 768px){
+    
+
+    h4{
+     width: 26rem;
+        font-size: 1.5rem;
+    }
+    .gallery .col:nth-child(4){
+        margin-left: 0;
+    }
+    .little-dec{
+        width: 100%;
+        
+    }
+   .footer-section ul li a:link{
+        font-size: 1.7rem;
+    }
+    
+    
+} 
+
+@media screen and (max-width: 720px){
+    
+    h1{
+        font-size: 3.7rem;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    h3{
+        font-size: 2rem;
+    }
+    .client-image img{
+    width: 22rem;
+    height: 22rem;
+    border-radius: 50%;
+   
+    
+}
+    .contact form{
+        width: 100%;
+    } 
+    
+}
+
+@media screen and (max-width: 620px){
+
+    h2{
+        font-size: 2.5rem;
+    }
+    h3{
+        font-size: 1.7rem;
+    }
+    
+    
+    .span_1_of_2{
+        width: 100%;
+    }
+    .contact .col:nth-child(2){
+        margin-left: 0;
+    }
+   {
+        width: 100%;
+    }
+     .team .col:nth-child(1){
+        margin-bottom: -2.2rem;
+    }
+    .footer-section ul li{
+    margin-left: 2rem;
+}
+   
+}
+
+@media screen and (max-width: 576px){
+ section{
+        padding: 8rem .8rem;
+    } 
+ .person-img{
+    height: 17rem;
+    width: 17rem;
+    transition: .3s;
+     
+    }
+    .person-img:hover{
+  transform: scale(1);
+    width: 18rem;
+    height: 18rem;
+    border-radius: 50%;
+  
+}
+    .team .col:nth-child(1){
+        margin-bottom: -5.5rem;
+    }
+    
+     h1{
+        font-size: 3rem;
+    }
+    h2{
+        font-size: 2.4rem;
+    }
+    h3{
+        font-size: 2rem;
+    }
+   
+      
+    
+   
+    @media screen and (max-width: 480px){
+        .span_1_of_4{
+            width: 100%;
+        }
+       
+       
+        h1{
+            font-size: 2.5rem;
+        }
+        h2{
+           font-size: 2rem;
+        }
+    }
